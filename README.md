@@ -35,6 +35,9 @@ Starting the Flatiron Multi Bake tool opens a floating dialog window that lists 
 
 You can select the groups you want to bake in the list or use the *All/None/Invert* buttons for convenience.
 
+![Flatiron MultiBake Installation image](https://github.com/3d-io/Flatiron-MultiBake/blob/main/images/flatiron_multibake_screenshot.png)
+<br/>
+
 Clicking the *Bake* button will bake all selected groups. Flatiron will use its current settings for all of them.
 
 The list of groups refreshes only when you open the tool or click the *Refresh* button. If you create or remove groups or load a different scene while the tool is open you need to refresh before you can select them.
